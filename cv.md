@@ -1,4 +1,7 @@
 # Ilja Krestjancevs
+
+[LinkedIn](https://www.linkedin.com/in/ikrestjancevs/) <br>
+[Github](https://github.com/qiqt)
  
 I am a software developer with a wide range of interests, but my biggest hobby is programming. I have tried
 many languages and technologies, from Python to Haskell, but the things I like the most are JavaScript and C#.
